@@ -1,0 +1,5 @@
+Plant_Code,Brennstofftyp,Menge,Einheit,Buchungsdatum,Vendor_Name,Cost_Center
+PLT-1001,Diesel,500,Liters,2025-05-01,Shell India,CC-OPS-01
+PLT-1002,Petrol,300,Liters,2025-05-02,BPCL,CC-OPS-02
+PLT-1003,Diesel,15000,Liters,2025-05-03,Indian Oil,CC-OPS-03
+PLT-1004,Natural Gas,950,CubicMeters,2025-05-04,GAIL,CC-OPS-01

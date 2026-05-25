@@ -1,0 +1,4 @@
+Employee_ID,Traveler_Name,Travel_Category,Origin_Airport,Destination_Airport,Distance_KM,Travel_Date
+EMP-1001,John Doe,Flight,HYD,DEL,1200,2025-05-01
+EMP-1002,Jane Smith,Taxi,BLR,BLR,35,2025-05-02
+EMP-1003,Alex Brown,Flight,DEL,SFO,15000,2025-05-03

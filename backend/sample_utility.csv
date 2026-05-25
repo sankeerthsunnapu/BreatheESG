@@ -1,0 +1,4 @@
+Meter_ID,Service_Address,kWh_Consumed,Tariff_Code,Billing_Start,Billing_End
+MTR-7781,Hyderabad Plant A,1200,IND-HT-01,2025-04-01,2025-04-30
+MTR-7782,Bangalore Office,850,IND-COM-02,2025-04-01,2025-04-30
+MTR-7783,Chennai Warehouse,15000,IND-HT-01,2025-04-01,2025-04-30
